@@ -1,5 +1,5 @@
  
-# Cloud Vision (Automated Camera
+# Cloud Vision (Automated Camera)
  #### Frontend Develoment
  - [Github Repo](https://rootrsk-cloudvision.vercel.app)
  - [Deployed Link](https://github.com/rootrsk/security-cam-front)
